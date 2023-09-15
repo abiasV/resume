@@ -1,4 +1,4 @@
-# Josh Beard
+# Abbas Vaziri
 
 ## Frontend Developer
 
