@@ -1,6 +1,6 @@
 # Abbas Vaziri
 
-![alt text](_readme/meee1)
+![Abbas](_readme/meee1)
 
 
 ## Frontend Developer
