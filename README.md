@@ -9,7 +9,7 @@
 
 * Email: [vaziri.as@gmail.com](mailto:vaziri.as@gmail.com)
 * GitHub: [github.com/joshbeard](https://github.com/abiasV)
-* Location: [North York, ON]
+* Location: North York, ON
 * Tel: (647) 325 7316
   
 
