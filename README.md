@@ -61,4 +61,4 @@ February 2017– February 2019
 
 * Computer Software Technology Engineering
   
-    ** September 2008- April 2012
+     *September 2008- April 2012*
