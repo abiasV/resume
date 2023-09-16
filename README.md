@@ -30,7 +30,7 @@ An enthusiastic Frontend Developer with a Computer Engineering bachelor and a we
 
 ### Web Application Developer with Synnovate Institute of Research (Project Basis)
 
-October 2022 – March 2023
+*October 2022 – March 2023*
 
 * Developed features for both mobile and desktop platforms using React.js, Typescript, JavaScript, Tailwind, and React Native with modern HTML5, and CSS3
 * Delivered responsive, cross-browser compatible, and accessibility-compliant websites
@@ -39,7 +39,7 @@ October 2022 – March 2023
 
 ### IT Tech Support with Rogers Communication Inc
 
-November 2019– April 2021
+*November 2019 – April 2021*
 
 * Top performance for customer satisfaction in summer 2022 with the best troubleshooting and communication
 * Prepared and configured devices for customers such as modems, routers, smart devices
@@ -49,7 +49,7 @@ November 2019– April 2021
 
 ### Frontend Developer with Melli Shoe Co., Tehran, Iran
 
-February 2017– February 2019
+*February 2017– February 2019*
 
 * Developing and optimizing responsive web pages using the latest standards in HTML, CSS, JavaScript, and libraries including Bootstrap and React for a user-friendly experience to meet business requirements.
 * Implementing web modules in HTML5 components improving on-page Search Engine Optimization (SEO) score by 30% through proper metadata, alt tags, header tags, content, internal linking, and schema markup
