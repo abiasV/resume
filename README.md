@@ -60,4 +60,5 @@ February 2017– February 2019
 ## Education & Certification
 
 * Computer Software Technology Engineering
+  
     ** September 2008- April 2012
