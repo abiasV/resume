@@ -1,1 +1,7 @@
-A Markdown version of my project's resume.
+## Projects
+
+This is my project page.
+
+---
+
+Footer
