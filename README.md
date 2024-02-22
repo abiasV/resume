@@ -1,4 +1,4 @@
-<center># Abbas Vaziri</center>
+<center>Abbas Vaziri</center>
 
 ![Abbas](_readme/Abbas.png )
 
