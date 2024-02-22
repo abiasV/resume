@@ -44,8 +44,12 @@ Bachelor’s Degree, Azad University
 
 ## Work Experience & Projects
 
-### Web Application Developer - *September 2018 – April 2012*
-* Synnovate Institute of Research, Toronto, ON
+### Web Application Developer 
+##### Synnovate Institute of Research, Toronto, ON - *July 2022 – December 2022*
+* Developed features for both mobile and desktop platforms using React.js, Typescript, JavaScript, Tailwind, and React Native with modern HTML5, and CSS3
+* Delivered responsive, cross-browser compatible, and accessibility-compliant websites
+* Experienced with web applications based on React.js using Test Driven Development (TDD)
+
 
 *October 2022 – March 2023*
 
