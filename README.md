@@ -58,7 +58,7 @@ Bachelor’s Degree, Azad University
 * Actively getting updates regarding new knowledge and technical standards
 
 ### Frontend Developer  
-##### Balin Tech Co., Tehran, Iran                                                                                        *February 2019 – February 2020*
+##### Balin Tech Co., Tehran, Iran -                                                                                      *February 2019 – February 2020*
 * Developed & optimized responsive web pages using the latest standards in HTML, CSS, JavaScript, and libraries including Bootstrap and React for a user-friendly experience to meet business requirements.
 * Collaborating with business stakeholders to design and implement new features to improve the overall experience
 * Implementing web modules in HTML5 components improving on-page Search Engine Optimization (SEO) score by 30% through proper metadata, alt tags, header tags, content, internal linking, and schema markup
