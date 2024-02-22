@@ -1,4 +1,4 @@
-<span align="center"> <h1> :star: Abbas Vaziri: </h1> </span>
+<h1 style="text-align: center;">:star: Abbas Vaziri</h1>
   
 
 ![Abbas](_readme/Abbas.png )
