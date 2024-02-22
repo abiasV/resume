@@ -45,33 +45,21 @@ Bachelor’s Degree, Azad University
 ## Work Experience & Projects
 
 ### Web Application Developer 
-##### Synnovate Institute of Research, Toronto, ON - *July 2022 – December 2022*
+##### Synnovate Institute of Research, Toronto, ON -                                                                           *July 2022 – December 2022*
 * Developed features for both mobile and desktop platforms using React.js, Typescript, JavaScript, Tailwind, and React Native with modern HTML5, and CSS3
 * Delivered responsive, cross-browser compatible, and accessibility-compliant websites
 * Experienced with web applications based on React.js using Test Driven Development (TDD)
 
-
-*October 2022 – March 2023*
-
-* Developed features for both mobile and desktop platforms using React.js, Typescript, JavaScript, Tailwind, and React Native with modern HTML5, and CSS3
-* Delivered responsive, cross-browser compatible, and accessibility-compliant websites
-* Experienced with web applications based on React.js using Test Driven Development(TDD)
-    
-
-### IT Tech Support with Rogers Communication Inc
-
-*November 2019 – April 2021*
-
-* Top performance for customer satisfaction in summer 2022 with the best troubleshooting and communication
-* Prepared and configured devices for customers such as modems, routers, smart devices
-* Performed thorough troubleshooting on returned devices from customers, upgrading firmware or resetting them to factory settings, and testing them to ensure their proper functioning.
-* Determined whether checked devices met quality control standards and either kept them in circulation or disposed of them responsibly.
-
-
-### Frontend Developer with Melli Shoe Co., Tehran, Iran
-
-*February 2017– February 2019*
-
-* Developing and optimizing responsive web pages using the latest standards in HTML, CSS, JavaScript, and libraries including Bootstrap and React for a user-friendly experience to meet business requirements.
+### Frontend React Developer  
+##### Melli Industrial Group, Tehran, Iran -                                                                                  *November 2020 – June 2022*
+* Developed & optimized responsive web pages using the latest standards in HTML, CSS, JavaScript, and libraries including Bootstrap and React for a user-friendly experience to meet business requirements.
+* Collaborating with business stakeholders to design and implement new features to improve the overall experience
 * Implementing web modules in HTML5 components improving on-page Search Engine Optimization (SEO) score by 30% through proper metadata, alt tags, header tags, content, internal linking, and schema markup
 * Actively getting updates regarding new knowledge and technical standards
+
+### Frontend Developer  
+##### Balin Tech Co., Tehran, Iran                                                                                        *February 2019 – February 2020*
+* Developed & optimized responsive web pages using the latest standards in HTML, CSS, JavaScript, and libraries including Bootstrap and React for a user-friendly experience to meet business requirements.
+* Collaborating with business stakeholders to design and implement new features to improve the overall experience
+* Implementing web modules in HTML5 components improving on-page Search Engine Optimization (SEO) score by 30% through proper metadata, alt tags, header tags, content, internal linking, and schema markup
+* Actively getting updates regarding new knowledge and technical standards  
