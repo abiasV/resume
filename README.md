@@ -1,9 +1,6 @@
-# Abbas Vaziri
+<center># Abbas Vaziri</center>
 
 ![Abbas](_readme/Abbas.png )
-
-
-## Frontend Developer
 
 ## Contact Details
 
@@ -13,21 +10,37 @@
 * Tel: (647) 325 7316
   
 
-## Summary
+## Professional Summary
 
-An enthusiastic Frontend Developer with a Computer Engineering bachelor and a web development postgraduate certificate, 4 years of strong experience in responsive and compatible web development pages using HTML5, CSS3, JavaScript, React, and jQuery with the well understanding of version control systems (Git, Github), who is looking for an opportunity to contribute his formal education, professional experience and skillset in a fast-paced and rewarding environment while supporting the Web development team and the company in meeting its goals.
+A seasoned web application developer with over 3 years of experience in web development. Proficient in HTML, CSS, JavaScript, React, and frameworks like Bootstrap, and Tailwind. Demonstrates a proven track record in delivering responsive, cross-browser compatible, and SEO-friendly websites. Skilled in modern web development tools such as Figma, Canvas, PHP, Node.js (Express.js), ES6+, Git, and GitHub. A fast learner, team player, and problem solver committed to continuous skill and knowledge enhancement.
+
+## Highlights & Qualifications
+
+* Extensive experience in front-end design and development using HTML, CSS preprocessors, modern principles of JavaScript frameworks, jQuery, RESTful API, ES6+, Bootstrap, and Tailwind
+* Effective in the daily maintenance of codes, debugging issues; and solving clients’ problems with very high attention to detail to address the issues
+* Experienced in testing, revising, and enhancing project work plans as necessary for usability and requirements
+* Ability to quickly learn new technologies, and tools, and work well under pressure on multiple projects within a deadline‐driven environment
+* Demonstrated ability to work well both in a team environment as well as taking initiative without any supervision
+* ReactJS, Redux, NodeJS, MongoDB
+* Typescript, Webpack, GIT, GitHub, Unit Testing
+* PHP, MySQL, Laravel, ASP.net (MVC), SQL Server
+* Practiced UI/UX Design, Figma, and Canvas in variety of projects
+
+## Education & Certifications
+*September 2023 – Present*
+* Web Development 
+Post Graduate Certificate, Humber College, Toronto, ON
+
+*August 2022*
+* Scaled Agile Framework 5 Agilest (SAFe®) 
+Scaled Agile Inc.
+
+*September 2018 – April 2012*
+* Computer Software Technology Engineering
+Bachelor’s Degree, Azad University
 
 
-## Technical Skills
-
-* HTML5, CSS3, JavaScript, jQuery, ES6+, SASS, Bootstrap, Tailwind
-* React, Redux, Redux toolkit, Redux-Sagas
-* Typescript, Webpack, NodeJS, REST APIs, GIT, GitHub
-* Familiar with PHP4, MySQL
-
-
-## Experience
-
+## Work Experience & Projects
 ### Web Application Developer with Synnovate Institute of Research (Project Basis)
 
 *October 2022 – March 2023*
