@@ -28,6 +28,7 @@ A seasoned web application developer with over 3 years of experience in web deve
 * Practiced UI/UX Design, Figma, and Canvas in variety of projects
 
 ## Education & Certifications
+
 *September 2023 – Present*
 * Web Development 
 Post Graduate Certificate, Humber College, Toronto, ON
@@ -42,7 +43,9 @@ Bachelor’s Degree, Azad University
 
 
 ## Work Experience & Projects
-### Web Application Developer with Synnovate Institute of Research (Project Basis)
+
+### Web Application Developer - *September 2018 – April 2012*
+* Synnovate Institute of Research, Toronto, ON
 
 *October 2022 – March 2023*
 
@@ -68,11 +71,3 @@ Bachelor’s Degree, Azad University
 * Developing and optimizing responsive web pages using the latest standards in HTML, CSS, JavaScript, and libraries including Bootstrap and React for a user-friendly experience to meet business requirements.
 * Implementing web modules in HTML5 components improving on-page Search Engine Optimization (SEO) score by 30% through proper metadata, alt tags, header tags, content, internal linking, and schema markup
 * Actively getting updates regarding new knowledge and technical standards
-
-
-
-## Education & Certification
-
-* Computer Software Technology Engineering
-  
-  *September 2008- April 2012*
